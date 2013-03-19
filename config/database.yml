@@ -1,0 +1,7 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  database: brg-grape-demo_development
+  pool: 5
+  username: root
+  password:
